@@ -1,6 +1,6 @@
 # thermometer
 
-The design of a thermometer that read the temperature of some external source.
+The design of a thermometer that can read the temperature of some external source.
 
 The thermometer is able to provide temperature in both Fahrenheit and Celsius. Callers of the thermometer system can define arbitrary thresholds 
 such as freezing and boiling at which the thermometer will infom the callers that a specific threshold has been reached. 
