@@ -27,7 +27,7 @@ namespace Thermometer
             thermometer.SetThreshold(boiling);
             thermometer.SetThreshold(freezing);
 
-            //There will be only one event
+            //There will be only one event for testing
             thermometer.Celsius = 90;
             thermometer.Celsius = 99.7;
             thermometer.Celsius = 99.9;
